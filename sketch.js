@@ -4,7 +4,7 @@ function setup() {
   
   function draw() {
     background(220);
-    background("green")
+    background("red")
     strokeWeight(5)
     fill('white')
     ellipse(175, 300, 50, 30)
